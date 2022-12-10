@@ -1,0 +1,2 @@
+I`m storing my information here to test file reading.
+And it is working.
